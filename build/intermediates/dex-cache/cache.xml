@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-2615e395ca9793883e60815b29fc38687a394751.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-1711c7e96b88f3bb4a533e679a1317df8a6b976a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-eb4d761aadf14190121448d19e00d54c302e3c51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-6ceb0d108b106e222c9b6f870d66bb87d8f72ade.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-6b0cad541b7260266c54a7930db66260c2004bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-5eef99f388a4d0d7547f5c81a8827ea9ad0db02f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-e27437e4e6136fd99cb6452127766e28f8a52e8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-1b62edac9bc365c4617ea46c11c07bf6fc88fd0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-e5c58df3cad690654d48f8af446e3366942d9ca8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-d2b7496dfe5a27a8dd2a6404501287c256729f24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-434476afcffe411772e5f58641642c3bbe36e282.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-a8a2e0eb09ae01c7f060d1fe0f684450a8697058.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-efaba2d72d1efc97b008eba6a9a26a1e8f6c7f60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-ca469b32ed6779c36a501e9730b1b5ce55df7441.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-4f8d5abc92d5fee2501312718fcef95777644ed4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-dbc3bf8323988edbad6984fc9caf26c6cb5c4617.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-1d8d11395e44ff9ede71d6355bb285bebc4f9727.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-2465c7d49f3c0239e6e29d84f8506b022748a355.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-79a84a188925d8010ca815df12c37006332ecfdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-6c1751d505e636451f41a548ba10e48cb9ff403f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-0749c3e707d5ad3ec4751ed84d4d93b6e9f84779.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-45358b301b319e5550c93ab5ea581db4ee19fe4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Mateusz\Downloads\AndroidApps\MapMarker\app\build\intermediates\pre-dexed\debug\classes-82a399fee76fd705c553d9d004a523a75575af89.jar" />
+    </item>
+
+</items>
